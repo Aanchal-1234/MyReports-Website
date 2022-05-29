@@ -34,13 +34,13 @@ Agile is a development methodology adopted today in the software industry. Agile
 ### **How I Incorporated Agile Methodology During The Development Cycle**
 SCRUM (Systematic Customer Resolution Unravelling Meeting) is a subset of Agile, a framework for developing software. SCRUM takes advantage of different techniques to achieve goals in Agile. SCRUM promotes an iterative model where the planning is performed on a very short term. The basic time working unit is the sprint. SCRUM teams always reason in sprints and their planning is limited to sprints.
 <br><br>
-Sprint 1 (May 5): Sprint Planning, Research and Design - Researching about various face recognition libraries and SDKs that can be used to make a facial recognition system. After finalising some related libraries for making the website, I searched for tutorials and other resources to design my website.
+**Sprint 1 (May 5): Sprint Planning, Research and Design** - Researching about various face recognition libraries and SDKs that can be used to make a facial recognition system. After finalising some related libraries for making the website, I searched for tutorials and other resources to design my website.
  
-Sprint 2 (May 12): Front-end Development - Designed a wireframe including the functionalities I want and designed the UI. Started the front-end development process by taking help from YouTube tutorials. Built a website using HTML, CSS and javascript for the first time. 
+**Sprint 2 (May 12): Front-end Development** - Designed a wireframe including the functionalities I want and designed the UI. Started the front-end development process by taking help from YouTube tutorials. Built a website using HTML, CSS and javascript for the first time. 
  
-Sprint 3 (May 19): Back-end Development and debugging- Started the backend development using python. Encountered occasional bugs which I debugged timely. 
+**Sprint 3 (May 19): Back-end Development and debugging** - Started the backend development using python. Encountered occasional bugs which I debugged timely. 
  
-Sprint 4 (May 26): Debugging and finalising the project - Integrated the whole project, made the required changes to make it more presentable and finalised the project.
+**Sprint 4 (May 26): Debugging and finalising the project** - Integrated the whole project, made the required changes to make it more presentable and finalised the project.
 
 
 <h2>Getting Started</h2>
@@ -73,53 +73,57 @@ To install django in your system run the following command cmd:
 #### **Home**
 
 
-When we click on the website link, we will be directed to the home page which will look like this:
+**When we click on the website link, we will be directed to the home page which will look like this:**<br>
 
-
+![1](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/1.png)
 
 
 
 #### **About-us**
 
+**On clicking the “About” button on the navbar, we will be redirected to the about-us section.**<br>
 
-On clicking the “About” button on the navbar, we will be redirected to the about-us section.
-
-
+![2](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/2.png)
+![3](https://github.com/Aanchal-1234/photos/blob/ecda2e743ed99b17c17df5bdbf3351d8daf06291/pics/3new.png)
+![4](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/4.png)
 
 
 #### **Contact-us**
 
 
-On clicking the “Contact-Us” button on the navbar, we will be redirected to the contact-us section
+**On clicking the “Contact-Us” button on the navbar, we will be redirected to the contact-us section** <br>
+![5](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/5.png)
 
 
 ### **Sign-in/Login Page**
 
 
-When we click on the “Sign-in/Login” button on the navbar, the login page will show up like this:
+**When we click on the “Sign-in/Login” button on the navbar, the login page will show up like this:**<br>
+![6](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/6.png)
 
 
-
-We can either login into our account or create a new account by clicking on “Don’t have an account? Create account” option
-
-
-
-We can go back to the login page by clicking “Already have an account? Sign in”
+**We can either login into our account or create a new account by clicking on “Don’t have an account? Create account” option**<br>
+![7](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/7.png)
+![9](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/9.png)
 
 
+**We can go back to the login page by clicking “Already have an account? Sign in”**<br>
+![8](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/8.png)
 
 
 ### **Profile Page:**
 
-After login, we will be redirected to our profile where all the details we have entered will be shown like this:
+**After login, we will be redirected to our profile where all the details we have entered will be shown like this:**
+<br><br>
+![10](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/10.png)
 
 
+**We can upload the documents by clicking “Add documents” in the profile page**<br><br>
+![11](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/11.png)
 
-We can upload the documents by clicking “Add documents” in the profile page
-
-
-By clicking “Documents-Link”, we can view all the uploaded documents
-
+**By clicking “Documents-Link”, we can view all the uploaded documents**<br><br>
+![12](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/12.png)
+![13](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/13.png)
 
 
 
