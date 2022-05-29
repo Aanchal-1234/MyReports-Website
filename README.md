@@ -83,10 +83,10 @@ To install django in your system run the following command cmd:
 
 **On clicking the “About” button on the navbar, we will be redirected to the about-us section.**<br>
 
-![2](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/2.png)
-![3](https://github.com/Aanchal-1234/photos/blob/ecda2e743ed99b17c17df5bdbf3351d8daf06291/pics/3new.png)
-![4](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/4.png)
-
+![ab-1](https://github.com/Aanchal-1234/photos/blob/da540d6f5ff69d4bf360df7104fc73a4a59824da/pics/about-1.png)
+![ab-2](https://github.com/Aanchal-1234/photos/blob/da540d6f5ff69d4bf360df7104fc73a4a59824da/pics/about-2.png)
+![ab-3](https://github.com/Aanchal-1234/photos/blob/da540d6f5ff69d4bf360df7104fc73a4a59824da/pics/about-3.png)
+![ab-4](https://github.com/Aanchal-1234/photos/blob/da540d6f5ff69d4bf360df7104fc73a4a59824da/pics/about-4.png)
 
 #### **Contact-us**
 
@@ -106,8 +106,8 @@ To install django in your system run the following command cmd:
 ![7](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/7.png)
 ![9](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/9.png)
 
+**We can go back to the login page by clicking "Already have an account? Sign in" option**<br>
 
-**We can go back to the login page by clicking “Already have an account? Sign in”**<br>
 ![8](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/8.png)
 
 
@@ -122,14 +122,15 @@ To install django in your system run the following command cmd:
 ![11](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/11.png)
 
 **By clicking “Documents-Link”, we can view all the uploaded documents**<br><br>
-![12](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/12.png)
-![13](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/13.png)
-
+![doc-1](https://github.com/Aanchal-1234/photos/blob/3733c0d3fc98b00004e2600d616ea59b323514c3/pics/doc-1.png)
+![doc-2](https://github.com/Aanchal-1234/photos/blob/3733c0d3fc98b00004e2600d616ea59b323514c3/pics/doc-2.png)
+![doc-3](https://github.com/Aanchal-1234/photos/blob/3733c0d3fc98b00004e2600d616ea59b323514c3/pics/doc-3.png)
 
 
 <h2>Resources Used</h2>
 
 [Tutorial for creating a responsive website](https://www.youtube.com/watch?v=8KVrdL0VcAk&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=39&t=3260s)
 <br>[Face recognition system tutorial](https://youtu.be/sz25xxF_AVE)
+ 
  
 
