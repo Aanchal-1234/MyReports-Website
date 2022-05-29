@@ -1,0 +1,387 @@
+/* body{
+    margin-top: 20px;
+    background-color: lightgray;
+}
+
+.main{
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topbar{
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    background-color: teal;
+    overflow: hidden;
+}
+
+.topbar::before{
+    content: "";
+    background-color: black;
+    position: absolute;
+    top:0px;
+    left:0px;
+    height: 100%;
+    width:100%;
+    z-index: -1;
+    opacity: 0.6;
+}
+
+.topbar #logo{
+    margin: 0px 11px;
+}
+
+.topbar #logo img{
+    height: 56px;
+    margin: 3px 10px;
+}
+
+
+.topbar ul{
+    display: flex;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.topbar a{
+    float: right;
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px 26px;
+    text-decoration: none;
+    font-size: 26px;
+}
+
+.topbar ul li{ 
+    list-style: none;
+    font-size: 1.3rem;
+}
+
+.topbar ul li a{
+    color: white;
+    display: block;
+    padding: 3px 22px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.topbar ul li a:hover{
+    color: black;
+    background-color: white;
+}
+
+.sidebar{
+    background-color: #333;
+    color: white;
+    height: 100%;
+}
+
+.sidebar a{
+    margin-left: 10px;
+    display: block;
+    color: white;
+    padding-bottom: 10px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.content{
+    background-color: whitesmoke;
+} */
+
+/* 
+body{
+    margin-top: 20px;
+    background-color: lightgray;
+}
+
+.main{
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topbar{
+    display: flex;
+    background-color: teal;
+    overflow: hidden;
+    align-items: center;
+    position: sticky;
+    top: 0px; 
+}
+
+.topbar::before{
+    content: "";
+    background-color: black;
+    position: absolute;
+    top:0px;
+    left:0px;
+    height: 100%;
+    width:100%;
+    z-index: -1;
+    opacity: 0.6;
+}
+
+.topbar a{
+    float: right;
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px 26px;
+    text-decoration: none;
+    font-size: 26px;
+}
+
+#logo{
+    margin: 0px 11px;
+}
+
+#logo img{
+    height: 56px;
+    margin: 3px 10px;
+}
+
+
+.topbar ul{
+    display: flex;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.topbar a{
+    float: right;
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px 26px;
+    text-decoration: none;
+    font-size: 26px;
+}
+
+.topbar ul li{ 
+    list-style: none;
+    font-size: 1.3rem;
+}
+
+.topbar ul li a{
+    color: white;
+    display: block;
+    padding: 3px 22px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.topbar ul li a:hover{
+    color: black;
+    background-color: white;
+}
+
+.sidebar{
+    background-color: #333;
+    color: white;
+    height: 100%;
+}
+
+.sidebar a{
+    margin-left: 10px;
+    display: block;
+    color: white;
+    padding-bottom: 10px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.content{
+    background-color: whitesmoke;
+}
+ */
+
+
+ @import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+ *{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   list-style: none;
+   font-family: 'Josefin Sans', sans-serif;
+ }
+ 
+ body{
+    background-color: #f3f3f3;
+ }
+ 
+ .wrapper{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   width: 750px;
+   display: flex;
+   box-shadow: 0 1px 20px 0 rgba(69,90,100,.08);
+ }
+ 
+ .wrapper .left{
+   width: 35%;
+   background: linear-gradient(to right,#01a9ac,#01dbdf);
+   padding: 30px 25px;
+   border-top-left-radius: 5px;
+   border-bottom-left-radius: 5px;
+   text-align: center;
+   color: #fff;
+ }
+ 
+ .wrapper .left img{
+   border-radius: 5px;
+   margin-bottom: 10px;
+ }
+ 
+ .wrapper .left h4{
+   margin-bottom: 10px;
+ }
+ 
+ .wrapper .left p{
+   font-size: 12px;
+ }
+ 
+ .wrapper .right{
+   width: 65%;
+   background: #fff;
+   padding: 30px 25px;
+   border-top-right-radius: 5px;
+   border-bottom-right-radius: 5px;
+ }
+ 
+ .wrapper .right .info,
+ .wrapper .right .projects{
+   margin-bottom: 25px;
+ }
+ 
+ .wrapper .right .info h3,
+ .wrapper .right .projects h3{
+     margin-bottom: 15px;
+     padding-bottom: 5px;
+     border-bottom: 1px solid #e0e0e0;
+     color: #353c4e;
+   text-transform: uppercase;
+   letter-spacing: 5px;
+ }
+ 
+ .wrapper .right .info_data,
+ .wrapper .right .projects_data{
+   display: flex;
+   justify-content: space-between;
+ }
+ 
+ .wrapper .right .info_data .data,
+ .wrapper .right .projects_data .data{
+   width: 45%;
+ }
+ 
+ .wrapper .right .info_data .data h4,
+ .wrapper .right .projects_data .data h4{
+     color: #353c4e;
+     margin-bottom: 5px;
+ }
+ 
+ .wrapper .right .info_data .data p,
+ .wrapper .right .projects_data .data p{
+   font-size: 13px;
+   margin-bottom: 10px;
+   color: #919aa3;
+ }
+ 
+ .wrapper .social_media ul{
+   display: flex;
+ }
+ 
+ .wrapper .social_media ul li{
+   width: 45px;
+   height: 45px;
+   background: linear-gradient(to right,#01a9ac,#01dbdf);
+   margin-right: 10px;
+   border-radius: 5px;
+   text-align: center;
+   line-height: 45px;
+ }
+ 
+ .wrapper .social_media ul li a{
+   color :#fff;
+   display: block;
+   font-size: 18px;
+ }
+
+ #navbar{
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+}
+
+#navbar::before{
+    content: "";
+    background-color: black;
+    position: absolute;
+    top:0px;
+    left:0px;
+    height: 100%;
+    width:100%;
+    z-index: -1;
+    opacity: 0.6;
+}
+
+/* Navigation Bar: Logo and Image */
+#logo{
+    /* margin: 10px 34px; */
+    margin: 0px 11px;
+}
+
+#logo img{
+    /* height: 59px;
+    margin: 3px 6px; */
+    height: 56px;
+    margin: 3px 10px;
+}
+
+
+/* Navigation Bar: List Styling */
+
+#navbar ul{
+    display: flex;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#navbar ul li{ 
+    list-style: none;
+    font-size: 1.3rem;
+}
+
+#navbar ul li a{
+    color: white;
+    display: block;
+    padding: 3px 22px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+#navbar ul li a:hover{
+    color: black;
+    background-color: white;
+}
+
+#txt{
+    /* width: 737px;
+    height: 50px;
+    font-size: 25px; */
+    margin: 5px;
+    
+}

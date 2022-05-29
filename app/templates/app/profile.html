@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Profile</title>
+	<link rel="stylesheet" href="../../static/app/css/profile.css">
+	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+</head>
+<body>
+
+
+    <nav id="navbar">
+        <div id="logo">
+            <img src="../../static/app/Pictures/logo2.png" alt="MyReports.com">
+        </div>
+        <ul>
+            <li class="item"><a href="#home"> Home </a></li>
+            <li class="item"><a href="#about"> About </a></li>
+            <li class="item"><a  href="#contact"> Contact Us </a></li>
+            <li class="item"><a href="login.html"> Logout </a></li>
+        </ul>
+        <!-- <div class="rightNav">
+            <input type="text" name="search" id="search">
+            <button class="btn btn-sm">search</button>
+        </div> -->
+    </nav>
+
+<div class="wrapper">
+    <div class="left">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/1200px-President_Barack_Obama.jpg" 
+        alt="Barack Obama" width="100">
+        <h4>Barack Obama</h4>
+         <p>U.S. President</p><br>
+         <p>D.O.B - 04/08/1961</p>
+    </div>
+    <div class="right">
+        <div class="info">
+            <h3>Information</h3>
+            <div class="info_data">
+                 <div class="data">
+                    <h4>Email</h4>
+                    <p>barack@gmail.com</p>
+                 </div>
+                 <div class="data">
+                   <h4>Phone</h4>
+                    <p>0001-213-998761</p>
+              </div>
+            </div>
+        </div>
+      
+      <div class="projects">
+            <h3>Documents</h3>
+            <div class="projects_data">
+                 <div class="data">
+                    <h4>Recent Documents</h4>
+                    <a href="documents.html">Documents-Link</a>
+                 </div>
+                 <div class="data">
+                   <h4>Add documents</h4>
+                    <form enctype="multipart/form-data" method="post" action="../../../show.py">
+                        <input id="txt" type="file" name="filename" id="image"/>
+                        <input id="txt" type="submit" name="sub" id="Upload the Document">
+                    </form>
+              </div>
+            </div>
+        </div>
+      
+        <!-- <div class="social_media">
+            <ul>
+              <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+              <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+          </ul>
+      </div> -->
+    </div>
+</div>
+
+</body>
+</html>
