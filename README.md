@@ -75,51 +75,54 @@ To install django in your system run the following command cmd:
 
 When we click on the website link, we will be directed to the home page which will look like this:
 
-
+![1](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/1.png)
 
 
 
 #### **About-us**
 
-
 On clicking the “About” button on the navbar, we will be redirected to the about-us section.
 
-
+![2](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/2.png)
+![3](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/3.png)
+![4](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/4.png)
 
 
 #### **Contact-us**
 
 
 On clicking the “Contact-Us” button on the navbar, we will be redirected to the contact-us section
+![5](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/5.png)
 
 
 ### **Sign-in/Login Page**
 
 
 When we click on the “Sign-in/Login” button on the navbar, the login page will show up like this:
-
+![6](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/6.png)
 
 
 We can either login into our account or create a new account by clicking on “Don’t have an account? Create account” option
-
+![7](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/7.png)
+![9](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/9.png)
 
 
 We can go back to the login page by clicking “Already have an account? Sign in”
-
-
+![8](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/8.png)
 
 
 ### **Profile Page:**
 
 After login, we will be redirected to our profile where all the details we have entered will be shown like this:
-
+![10](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/10.png)
 
 
 We can upload the documents by clicking “Add documents” in the profile page
-
+![11](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/11.png)
 
 By clicking “Documents-Link”, we can view all the uploaded documents
-
+![12](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/12.png)
+![13](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/13.png)
 
 
 
