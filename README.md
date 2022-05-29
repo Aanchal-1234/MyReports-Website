@@ -83,10 +83,10 @@ To install django in your system run the following command cmd:
 
 **On clicking the “About” button on the navbar, we will be redirected to the about-us section.**<br>
 
-![ab-1](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/2.png)
-![ab-2](https://github.com/Aanchal-1234/photos/blob/ecda2e743ed99b17c17df5bdbf3351d8daf06291/pics/3new.png)
-![ab-3](https://github.com/Aanchal-1234/photos/blob/25937d7402257da652aa9afb086b8f1256b81fa1/pics/4.png)
-![ab-4]()
+![ab-1](https://github.com/Aanchal-1234/photos/blob/da540d6f5ff69d4bf360df7104fc73a4a59824da/pics/about-1.png)
+![ab-2](https://github.com/Aanchal-1234/photos/blob/da540d6f5ff69d4bf360df7104fc73a4a59824da/pics/about-2.png)
+![ab-3](https://github.com/Aanchal-1234/photos/blob/da540d6f5ff69d4bf360df7104fc73a4a59824da/pics/about-3.png)
+![ab-4](https://github.com/Aanchal-1234/photos/blob/da540d6f5ff69d4bf360df7104fc73a4a59824da/pics/about-4.png)
 
 #### **Contact-us**
 
