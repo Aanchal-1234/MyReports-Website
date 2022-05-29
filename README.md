@@ -133,4 +133,3 @@ To install django in your system run the following command cmd:
 <br>[Face recognition system tutorial](https://youtu.be/sz25xxF_AVE)
  
  
-
