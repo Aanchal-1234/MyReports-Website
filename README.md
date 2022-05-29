@@ -132,4 +132,5 @@ To install django in your system run the following command cmd:
 [Tutorial for creating a responsive website](https://www.youtube.com/watch?v=8KVrdL0VcAk&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=39&t=3260s)
 <br>[Face recognition system tutorial](https://youtu.be/sz25xxF_AVE)
  
+ 
 
